@@ -1,42 +1,38 @@
-# Workshop Kotaku 2021 - Program Kota Tanpa Kumuh Kota Bontang 
+![](https://img.shields.io/badge/PHP-8.0-blue?logo=php&style=flat-square) ![](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&style=flat-square) ![](https://img.shields.io/badge/Status-Inactive-red?style=flat-square)
 
-![](https://img.shields.io/badge/PHP-8.0-blue?logo=php&style=flat-square) ![](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&style=flat-square) ![](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+**Workshop Kotaku 2021** is an application is designed to facilitate the "Program Kota Tanpa Kumuh" (Kotaku) 2021 workshop in Bontang City. Below are the main features of this application:
 
-Selamat datang di repositori **Workshop Kotaku 2021**! 
+## ✨ Key Features
 
-Aplikasi ini dirancang untuk mendukung Program Kota Tanpa Kumuh (Kotaku) di Kota Bontang. Berikut adalah fitur-fitur utama aplikasi ini:
+### ✅ Attendance for Participants and Speakers
+- Efficiently record attendance for participants and speakers.
+- Easily monitor participation levels.
 
-## ✨ Fitur Utama
+### 📋 Participant and Speaker Management
+- Store comprehensive data of participants and speakers.
+- Manage data through an intuitive interface.
 
-### ✅ Absensi Peserta dan Pemateri
-- Rekam kehadiran peserta dan pemateri secara efisien.
-- Pantau tingkat partisipasi dengan mudah.
-
-### 📋 Daftar Peserta dan Pemateri
-- Menyimpan data lengkap peserta dan pemateri.
-- Kelola data melalui antarmuka yang intuitif.
-
-### 🏅 Download Sertifikat Workshop
-- Peserta dan pemateri dapat mengunduh sertifikat mereka langsung dari aplikasi.
-- Sertifikat otomatis dibuat sesuai data peserta/pemateri.
+### 🏅 Workshop Certificate Download
+- Participants and speakers can download their certificates directly from the application.
+- Certificates are automatically generated based on participant/speaker data.
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## ⚙️ Technologies Used
 
-- **PHP**: Backend dan logika aplikasi.
-- **MySQL**: Penyimpanan dan pengelolaan basis data.
+- **PHP**: Backend and application logic.
+- **MySQL**: Database storage and management.
 
 ---
 
-## 📧 Kontak
+## 📧 Contact
 
-Untuk pertanyaan atau kontribusi, silakan hubungi:
+For questions or contributions, please reach out to:
 **Ariel The Killers**  
 [arielthekillers@gmail.com](mailto:arielthekillers@gmail.com)
 
 ---
 
-### 🎉 Terima Kasih telah mendukung Program Kota Tanpa Kumuh!
+### 🎉 Thank You for Supporting the "Program Kota Tanpa Kumuh"!
 
-Mari bersama-sama menciptakan kota yang lebih baik. 🚀
+Let’s work together to create a better city. 🚀
