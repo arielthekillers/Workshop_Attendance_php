@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/PHP-8.0-blue?logo=php&style=flat-square) ![](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&style=flat-square) ![](https://img.shields.io/badge/Status-Inactive-red?style=flat-square)
 
-**Workshop Kotaku 2021** is an application is designed to facilitate the "Program Kota Tanpa Kumuh" (Kotaku) 2021 workshop in Bontang City. Below are the main features of this application:
+**Workshop Attendance PHP** is an application is designed to facilitate the "Program Kota Tanpa Kumuh" (Kotaku) 2021 workshop in Bontang City. Below are the main features of this application:
 
 ## ✨ Key Features
 
