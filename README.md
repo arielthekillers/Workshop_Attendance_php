@@ -1,6 +1,12 @@
-![](https://img.shields.io/badge/PHP-8.0-blue?logo=php&style=flat-square) ![](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&style=flat-square) ![](https://img.shields.io/badge/Status-Inactive-red?style=flat-square)
+# Workshop Attendance PHP
 
-**Workshop Attendance PHP** is an application is designed to facilitate the "Program Kota Tanpa Kumuh" (Kotaku) 2021 workshop in Bontang City. Below are the main features of this application:
+![](https://img.shields.io/badge/PHP-8.0-blue?logo=php&style=flat-square) 
+![](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&style=flat-square) 
+![](https://img.shields.io/badge/Status-Inactive-red?style=flat-square)
+
+**Workshop Attendance PHP** is an application designed to facilitate the "Program Kota Tanpa Kumuh" (Kotaku) 2021 workshop in Bontang City. Below are the main features of this application:
+
+---
 
 ## ✨ Key Features
 
@@ -22,6 +28,8 @@
 
 - **PHP**: Backend and application logic.
 - **MySQL**: Database storage and management.
+- **JavaScript**: Interactive features and dynamic UI enhancements.
+- **CSS**: Styling and responsive design.
 
 ---
 
